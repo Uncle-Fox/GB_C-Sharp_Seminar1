@@ -18,3 +18,5 @@ else
 {
     Console.WriteLine($"A = {FirstNumber} B = {SecondNumber} -> Нет");
 }
+
+// был добавлен новый текст сюда?
